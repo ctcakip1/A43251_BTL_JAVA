@@ -610,7 +610,7 @@ public class HomePage extends javax.swing.JFrame {
 
             },
             new String [] {
-                "Mã Sinh Viên", "Tên ", "Khóa học", "Chuyên ngành"
+                "Mã Sinh Viên", "Tên ", "Khóa ", "Chuyên ngành"
             }
         ));
         tbl_studentDetails.setColorBackgoundHead(new java.awt.Color(102, 102, 255));

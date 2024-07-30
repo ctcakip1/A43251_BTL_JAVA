@@ -927,7 +927,7 @@
                   <Table columnCount="4" rowCount="0">
                     <Column editable="true" title="M&#xe3; Sinh Vi&#xea;n" type="java.lang.Object"/>
                     <Column editable="true" title="T&#xea;n " type="java.lang.Object"/>
-                    <Column editable="true" title="Kh&#xf3;a h&#x1ecd;c" type="java.lang.Object"/>
+                    <Column editable="true" title="Kh&#xf3;a " type="java.lang.Object"/>
                     <Column editable="true" title="Chuy&#xea;n ng&#xe0;nh" type="java.lang.Object"/>
                   </Table>
                 </Property>

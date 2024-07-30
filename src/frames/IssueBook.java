@@ -341,7 +341,7 @@ public class IssueBook extends javax.swing.JFrame {
 
         jLabel26.setFont(new java.awt.Font("Segoe UI", 1, 20)); // NOI18N
         jLabel26.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel26.setText("Khóa học :");
+        jLabel26.setText("Khóa :");
         jPanel7.add(jLabel26, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 390, 150, -1));
 
         jLabel27.setFont(new java.awt.Font("Segoe UI", 1, 20)); // NOI18N

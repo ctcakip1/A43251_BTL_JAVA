@@ -260,7 +260,7 @@ public class ManageStudents extends javax.swing.JFrame {
 
         jLabel21.setFont(new java.awt.Font("Segoe UI", 3, 12)); // NOI18N
         jLabel21.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel21.setText("Khóa học");
+        jLabel21.setText("Khóa ");
         jPanel1.add(jLabel21, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 330, 150, -1));
 
         jLabel22.setFont(new java.awt.Font("Segoe UI", 3, 12)); // NOI18N
@@ -306,11 +306,11 @@ public class ManageStudents extends javax.swing.JFrame {
         jPanel1.add(rSMaterialButtonCircle3, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 520, 110, 50));
 
         combo_branch.setFont(new java.awt.Font("Segoe UI", 0, 17)); // NOI18N
-        combo_branch.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "IT", "CS", "PLAIN", "ELECTRONIC" }));
+        combo_branch.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Công nghệ thông tin", "Khoa học máy tính", "Trí tuệ nhân tạo", "Hệ thống thông tin", " " }));
         jPanel1.add(combo_branch, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 460, 280, 40));
 
         combo_CourseName.setFont(new java.awt.Font("Segoe UI", 0, 17)); // NOI18N
-        combo_CourseName.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "BSC", "MSC", "PHD" }));
+        combo_CourseName.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "K32", "K33", "K34", "K35", "K36", " " }));
         jPanel1.add(combo_CourseName, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 360, 280, 40));
 
         getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 580, 830));
@@ -353,7 +353,7 @@ public class ManageStudents extends javax.swing.JFrame {
 
             },
             new String [] {
-                "Mã Sinh Viên", "Tên ", "Khóa học", "Chuyên ngành"
+                "Mã Sinh Viên", "Tên ", "Khóa ", "Chuyên ngành"
             }
         ));
         tbl_studentDetails.setColorBackgoundHead(new java.awt.Color(102, 102, 255));
